@@ -4,7 +4,7 @@
     "description": "Generates the docstring for functions and classes",
     "icon": "assets/code-comments.jpg",
     "version": "0.4.0",
-    "publisher": "Mr Fant",
+    "publisher": "MrFant",
     "engines": {
         "vscode": "^1.25.0"
     },
